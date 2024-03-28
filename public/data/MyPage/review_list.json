@@ -1,0 +1,42 @@
+[
+  { 
+    "id": 0, 
+    "title": "A마을의 일품인 못난이 농작물!",
+    "apple": 10,
+    "pear": 5,
+    "delivery_date": "2023. 09. 11",
+    "price": 23000,
+    "completed": true,
+    "image" : "https://cdn.pixabay.com/photo/2015/12/09/17/11/vegetables-1085063_1280.jpg"
+  },
+  { 
+    "id": 1, 
+    "title": "B마을의 일품인 못난이 농작물!",
+    "apple": 25,
+    "pear": 10,
+    "delivery_date": "2023. 10. 06",
+    "price": 23000,
+    "completed": false,
+    "image" : "https://cdn.pixabay.com/photo/2015/12/09/17/11/vegetables-1085063_1280.jpg"
+  },
+  { 
+    "id": 2, 
+    "title": "C마을의 일품인 못난이 농작물!",
+    "apple": 5,
+    "pear": 10,
+    "delivery_date": "2023. 9. 16",
+    "price": 16000,
+    "completed": false,
+    "image" : "https://cdn.pixabay.com/photo/2015/12/09/17/11/vegetables-1085063_1280.jpg"
+  },
+  { 
+    "id": 3, 
+    "title": "D마을의 일품인 못난이 농작물!",
+    "apple": 20,
+    "pear": 10,
+    "delivery_date": "2023. 8. 13",
+    "price": 26000,
+    "completed": true,
+    "image" : "https://cdn.pixabay.com/photo/2015/12/09/17/11/vegetables-1085063_1280.jpg"
+  }
+]

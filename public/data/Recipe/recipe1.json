@@ -1,0 +1,49 @@
+{ 
+      "id": "tomato_caprese",
+      "subTitle": "토마토를 좋아하고 귀찮은 건 싫은 당신을 위한,",
+      "title": "토마토 카프레제",
+      "description": "카프레세는 모차렐라, 토마토, 바질을 넣고 소금과 올리브유, 발사믹 드레싱으로 간한 이탈리아의 샐러드이다.",
+      "taste": 4.9,
+      "difficulty": "최하",
+      "estTime": "10분",
+      "image" : "https://images.unsplash.com/photo-1622637103261-ae624e188bd0?q=80&w=1930&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tag" : ["#에피타이저", "#간단한", "#대접하기 좋은"],
+      "ingredient": [
+        {
+            "name": "파",
+            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJOg6XHpSDst_YGfbanJ0In8OyyEw92C25LPJ9Hapjcv7-_dHb"
+        },
+        {
+            "name": "식빵",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8tDTIpbGOc_9cXFbPI9SKddHbZWqODoxU_P1IXU2OGERDpzBM"
+        },
+        {
+            "name": "버터",
+            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGddZqUqSGcDW4J0z_NM2l1px1rqtU0ccOt5P4NHPa1vp4G_xq"
+        },
+        {
+            "name": "치즈",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwBSWhY3Io4W7cHrLFzErhFDhga1wCX4dJKtAUxuss88iVfJpf"
+        },
+        {
+            "name": "새싹 채소",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5pXsVfgGgAcKqcNDkKpTZXsfte-Yu1rpSI5Aarv268mOxJLqh"
+        }   
+      ],
+      "sauce": [
+        {
+            "name": "마요네즈",
+            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTVIxM_OxO7yznHjxHed-0O6EjNKOuhYyEdGQfz-8GuWfQqluA"
+        },
+        {
+            "name": "소금",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiVKLnN_xdGyUpAUUITOm71mCtDenJi5WClVmlTiC4VZX3TH9W"
+        },
+        {
+            "name": "파슬리",
+            "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScu0iSsFeSczkc3MPfrCqtk1_q-TNo3CUrnK8h7OhH6pgxgEQ3"
+        }
+      ],
+      "cook": ["대파 한 대는 어슷썰기로 썰어주기", "버터 1 큰술을 녹이고 대파 넣고 숨이 죽도록 달달 볶기",
+       "소스 : 마요네즈 3 , 설탕 1 , 소금 0.5 , 파슬리", "식빵 한 쪽 굽고 소스 바르고 대파, 치즈 올려 약불에 굽기"]
+}

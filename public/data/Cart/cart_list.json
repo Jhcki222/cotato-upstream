@@ -1,0 +1,68 @@
+[
+  { 
+    "id": 0,
+    "region": "청주",
+    "title": "신품종 킹머스켓 & 샤인머스켓 | 최초공개 추석 한정판",
+    "image" : "https://cdn.pixabay.com/photo/2015/12/09/17/11/vegetables-1085063_1280.jpg",
+    "products": [
+      {
+        "id": 123,  
+        "name": "선택1",
+        "subname":"멋쟁이 토마토",
+        "type": "토마토",
+        "weight": 10,
+        "price": 10000,
+        "quantity" : 3,
+        "image" : "https://cdn.pixabay.com/photo/2015/12/09/17/11/vegetables-1085063_1280.jpg"
+      },
+      {
+        "id": 1234,  
+        "name": "선택2",
+        "subname":"멋쟁이 자두",
+        "type": "자두",
+        "weight": 5,
+        "price": 8000,
+        "quantity" : 2,
+        "image" : "https://cdn.pixabay.com/photo/2015/12/09/17/11/vegetables-1085063_1280.jpg"
+      },
+      {
+        "id": 12345,  
+        "name": "선택3",
+        "subname":"멋쟁이 샤머",
+        "type": "샤인머스켓",
+        "weight": 5,
+        "price": 15000,
+        "quantity" : 1,
+        "image" : "https://cdn.pixabay.com/photo/2015/12/09/17/11/vegetables-1085063_1280.jpg"
+      }
+    ]
+  },
+  { 
+    "id": 11,
+    "region": "횡성",
+    "title": "신품종 사과 | 최초공개 추석 한정판",
+    "image" : "https://cdn.pixabay.com/photo/2015/12/09/17/11/vegetables-1085063_1280.jpg",
+    "products": [
+      {
+        "id": 45,  
+        "name": "선택1",
+        "subname":"멋쟁이 토마토",
+        "type": "토마토",
+        "weight": 20,
+        "price": 10000,
+        "quantity" : 3,
+        "image" : "https://cdn.pixabay.com/photo/2015/12/09/17/11/vegetables-1085063_1280.jpg"
+      },
+      {
+        "id": 456,  
+        "name": "선택3",
+        "subname":"멋쟁이 사과",
+        "type": "사과",
+        "weight": 15,
+        "price": 15000,
+        "quantity" : 5,
+        "image" : "https://cdn.pixabay.com/photo/2015/12/09/17/11/vegetables-1085063_1280.jpg"
+      }
+    ]
+  }
+]
